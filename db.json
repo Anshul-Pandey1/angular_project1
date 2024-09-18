@@ -1,0 +1,30 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "pname": "Abc properties",
+      "pprice": "2323232",
+      "plocation": "kanpur",
+      "pdetails": "2bhk"
+    },
+    {
+      "id": 2,
+      "pname": null,
+      "pprice": null,
+      "plocation": null,
+      "pdetails": null
+    }
+  ],
+  "signup": [
+    {
+      "id": 1,
+      "name": "some comment",
+      "email": "abc@gmail.com",
+      "mobile": "3434124",
+      "password": "3233"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
